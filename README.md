@@ -1,2 +1,2 @@
 # NearMissGUI
-Basic GUI verision of Near Miss
+Basic GUI version of Near Miss
